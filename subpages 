@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIStartupz - Explore AI Tools</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f0f0f;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1f1f1f;
+      padding: 1em;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      background: #141414;
+      padding: 0.5em 0;
+    }
+    nav a {
+      color: #0ff;
+      margin: 0.5em 1em;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .section {
+      padding: 2em;
+    }
+    .tool-box {
+      background: #1a1a1a;
+      padding: 1em;
+      margin: 1em 0;
+      border-left: 4px solid #0ff;
+    }
+    .tool-box h3 {
+      margin: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1em;
+      background: #111;
+      color: #888;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AIStartupz.com</h1>
+    <p>Your hub to discover AI for everything</p>
+  </header>
+  <nav>
+    <a href="#lazybot">Lazy Bot</a>
+    <a href="#fun">AI for Fun</a>
+    <a href="#study">AI for Study</a>
+    <a href="#money">AI for Money</a>
+    <a href="#hustle">AI for Hustle</a>
+    <a href="#creative">AI for Creativity</a>
+  </nav>
+  <div id="lazybot" class="section">
+    <h2>Lazy Bot</h2>
+    <p>A single AI assistant that suggests the best tool for any task you say. Talk to it like you would to a friend.</p>
+    <div class="tool-box">
+      <h3>Example Prompt:</h3>
+      <p>"I have homework, want funny memes, and need a summary for a history chapter under 150 words."</p>
+    </div>
+  </div>
+  <div id="fun" class="section">
+    <h2>AI for Fun</h2>
+    <div class="tool-box">
+      <h3>AI Meme Generator</h3>
+      <p>Create hilarious AI memes in seconds. Add your own twist.</p>
+    </div>
+    <div class="tool-box">
+      <h3>Voice Changer AI</h3>
+      <p>Sound like anyone from Elon to your best friend using AI-powered voice edits.</p>
+    </div>
+  </div>
+  <div id="study" class="section">
+    <h2>AI for Study</h2>
+    <div class="tool-box">
+      <h3>Notes to Summary Bot</h3>
+      <p>Drop in class notes and get clean summaries instantly.</p>
+    </div>
+    <div class="tool-box">
+      <h3>Homework Solver</h3>
+      <p>Input questions, get explained answers and sources.</p>
+    </div>
+  </div>
+  <div id="money" class="section">
+    <h2>AI for Money</h2>
+    <div class="tool-box">
+      <h3>Side Hustle Idea Bot</h3>
+      <p>Generates online money-making ideas based on your skills.</p>
+    </div>
+    <div class="tool-box">
+      <h3>Stock Sentiment Analyzer</h3>
+      <p>Uses Twitter + news to suggest what’s hot in markets.</p>
+    </div>
+  </div>
+  <div id="hustle" class="section">
+    <h2>AI for Hustle</h2>
+    <div class="tool-box">
+      <h3>Pitch Deck Builder</h3>
+      <p>Write a startup idea and instantly get a full pitch deck.</p>
+    </div>
+    <div class="tool-box">
+      <h3>Cold Email Generator</h3>
+      <p>Craft the perfect outreach email for jobs, sales, or collabs.</p>
+    </div>
+  </div>
+  <div id="creative" class="section">
+    <h2>AI for Creativity</h2>
+    <div class="tool-box">
+      <h3>Idea Expander</h3>
+      <p>Give it one line and get 5 unique angles, titles, and scripts.</p>
+    </div>
+    <div class="tool-box">
+      <h3>Visual Storyboard AI</h3>
+      <p>Sketch your idea and get a visual scene-by-scene AI storyboard.</p>
+    </div>
+  </div>
+  <footer>
+    Made with zero budget. AIStartupz.com | Powered by ambition + AI
+  </footer>
+</body>
+</html>
